@@ -1,84 +1,27 @@
-\# Portafolio de Aprendiz
+# Portafolio de Aprendiz
 
-
-
-\## Descripción
-
-
+## Descripción
 
 Este repositorio contiene mis ejercicios, proyectos y evidencias del programa de Análisis y Desarrollo de Software.
 
+## Tecnologías aprendidas
 
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
 
-\## Tecnologías aprendidas
+## Mi perfil de GitHub
 
+https://github.com/kristianpinzon
 
-
-\- Python
-
-\- HTML
-
-\- CSS
-
-\- JavaScript
-
-\- Git
-
-\- GitHub
-
-
-
-\# Portafolio de Aprendiz
-
-
-
-\## Descripción
-
-
-
-Este repositorio contiene mis ejercicios, proyectos y evidencias del programa de Análisis y Desarrollo de Software.
-
-
-
-\## Tecnologías aprendidas
-
-
-
-\- Python
-
-\- HTML
-
-\- CSS
-
-\- JavaScript
-
-\- Git
-
-\- GitHub
-
-
-
-\## Mi perfil de GitHub
-
-
-
-https://github.com/dashboard
-
-
-
-\## Comandos básicos
-
-
+## Comandos básicos
 
 ```bash
-
 git status
-
 git add .
-
 git commit -m "Actualizar README"
-
 git push origin main
-
 ```
-
