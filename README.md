@@ -1,27 +1,24 @@
-# Portafolio de Aprendiz
+# Sistema de Inventario
+
+Proyecto académico desarrollado para aprender Git, GitHub y la creación de documentación con Markdown.
 
 ## Descripción
 
-Este repositorio contiene mis ejercicios, proyectos y evidencias del programa de Análisis y Desarrollo de Software.
+Este proyecto tiene como objetivo gestionar un inventario de productos y servir como práctica para el uso de Git y GitHub durante el proceso de formación.
 
-## Tecnologías aprendidas
+## Tecnologías
 
 - Python
-- HTML
-- CSS
-- JavaScript
 - Git
 - GitHub
 
-## Mi perfil de GitHub
+## Funcionalidades
 
-https://github.com/kristianpinzon
+- Registrar productos.
+- Consultar productos.
+- Actualizar información.
+- Eliminar productos.
 
-## Comandos básicos
+## Autor
 
-```bash
-git status
-git add .
-git commit -m "Actualizar README"
-git push origin main
-```
+Kristian Pinzón
